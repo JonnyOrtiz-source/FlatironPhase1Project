@@ -1,0 +1,30 @@
+{
+   "restaurants": [
+      {
+         "name": "Lila",
+         "address": "Building 8, 27th St W, Bradenton, FL 34207, USA",
+         "type": "Contemporary",
+         "visitDate": "2022-04-23",
+         "meal": "my fave",
+         "liked": false,
+         "id": 15
+      },
+      {
+         "name": "Bricks",
+         "address": "6610 Cheswick St, Sarasota, FL 34243, USA",
+         "type": "Contemporary",
+         "visitDate": "2022-04-23",
+         "meal": "my fave",
+         "liked": true,
+         "id": 17
+      }
+   ],
+   "wishList": [
+      {
+         "name": "Chicfila",
+         "address": "Building 8, 27th St W, Bradenton, FL 34207, USA",
+         "reviews": "",
+         "id": 16
+      }
+   ]
+}
